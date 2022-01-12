@@ -19,4 +19,15 @@ TBD
 
 ## Members
 
-TBD: table of Name (link to GitHub), Role, ..., etc.
+| Name                                                         | Instrument                        | Remark |
+| ------------------------------------------------------------ | --------------------------------- | ------ |
+| [Bo Lu (lubobill1990)](https://github.com/lubobill1990)      | Vocal / Acoustic Guitar / Bass    |        |
+| Bojun Chai                                                   | Guitar / Bass / Drum              |        |
+| [Da-Wei Lee (daviddwlee84)](https://github.com/daviddwlee84) | Drum / Acoustic Guitar / Keyboard |        |
+| [John Chou (Joouis)](https://github.com/joouis)              | Electric Guitar                   |        |
+| [More Zhou (Cailurus)](https://github.com/Cailurus)          | Vocal / Acoustic Guitar           |        |
+| Myra Wang                                                    | Agent                             |        |
+| [Samuel Qian (SamuelQZQ)](https://github.com/SamuelQZQ)      | Electric Guitar / Sonic Pi        |        |
+| Summer Xia                                                   | Vocal / Oboe                      |        |
+| Wendy Liu                                                    | Piano                             |        |
+| [Yujie Liu (EyamaYliu)](https://github.com/EyamaYliu)        | Vocal                             |        |
